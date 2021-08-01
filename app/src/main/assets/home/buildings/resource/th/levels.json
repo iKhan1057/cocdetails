@@ -1,0 +1,18 @@
+{
+  "thlevels": [
+    {"level": "1",       "build_cost": "N/A",             "build_time": "N/A",          "max_def_build": "14",      "max_def_traps": "00"},
+    {"level": "2",       "build_cost": "1,000",           "build_time": "10 seconds",   "max_def_build": "19",      "max_def_traps": "00"},
+    {"level": "3",       "build_cost": "4,000",           "build_time": "1 hours",      "max_def_build": "26",      "max_def_traps": "02"},
+    {"level": "4",       "build_cost": "25,000",          "build_time": "8 hours",      "max_def_build": "31",      "max_def_traps": "04"},
+    {"level": "5",       "build_cost": "150,000",         "build_time": "12 hours",     "max_def_build": "38",      "max_def_traps": "08"},
+    {"level": "6",       "build_cost": "750,000",         "build_time": "1 day",        "max_def_build": "44",      "max_def_traps": "11"},
+    {"level": "7",       "build_cost": "1,000,000",       "build_time": "2 days",       "max_def_build": "57",      "max_def_traps": "15"},
+    {"level": "8",       "build_cost": "2,000,000",       "build_time": "3 days",       "max_def_build": "67",      "max_def_traps": "23"},
+    {"level": "9",       "build_cost": "3,000,000",       "build_time": "4 days",       "max_def_build": "80",      "max_def_traps": "26"},
+    {"level": "10",      "build_cost": "4,000,000",       "build_time": "5 days",       "max_def_build": "87",      "max_def_traps": "30"},
+    {"level": "11",      "build_cost": "6,500,000",       "build_time": "8 days",       "max_def_build": "93",      "max_def_traps": "31"},
+    {"level": "12",      "build_cost": "9,500,000",       "build_time": "14 days",      "max_def_build": "96",      "max_def_traps": "36"},
+    {"level": "13",      "build_cost": "12,000,000",      "build_time": "18 days",      "max_def_build": "99",      "max_def_traps": "39"},
+    {"level": "14",      "build_cost": "16,000,000",      "build_time": "20 days",      "max_def_build": "100",     "max_def_traps": "44"}
+  ]
+}

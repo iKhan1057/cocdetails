@@ -1,0 +1,20 @@
+{"army":[
+  {"level": "1","research_cost": "N/A","lab": "N/A","research_time": "N/A"},
+  {"level": "2","research_cost": "1,600,000","lab": "7","research_time": "1d"},
+  {"level": "3","research_cost": "1,700,000","lab": "8","research_time": "1d"},
+  {"level": "4","research_cost": "1,800,000","lab": "8","research_time": "2d"},
+  {"level": "5","research_cost": "1,900,000","lab": "8","research_time": "2d"},
+  {"level": "6","research_cost": "2,000,000","lab": "8","research_time": "3d"},
+  {"level": "7","research_cost": "2,200,000","lab": "8","research_time": "3d"},
+  {"level": "8","research_cost": "2,400,000","lab": "8","research_time": "4d"},
+  {"level": "9","research_cost": "2,600,000","lab": "8","research_time": "4d"},
+  {"level": "10","research_cost": "2,800,000","lab": "8","research_time": "4d"},
+  {"level": "11","research_cost": "3,000,000","lab": "8","research_time": "4d"},
+  {"level": "12","research_cost": "3,200,000","lab": "8","research_time": "4d"},
+  {"level": "13","research_cost": "3,400,000","lab": "8","research_time": "4d"},
+  {"level": "14","research_cost": "3,600,000","lab": "8","research_time": "4d"},
+  {"level": "15","research_cost": "3,800,000","lab": "8","research_time": "4d"},
+  {"level": "16","research_cost": "4,000,000","lab": "8","research_time": "4d"},
+  {"level": "17","research_cost": "4,600,000","lab": "9","research_time": "5d"},
+  {"level": "18","research_cost": "4,800,000","lab": "9","research_time": "5d"}
+]}

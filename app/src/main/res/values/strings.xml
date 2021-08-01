@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Coc Info</string>
+
+    <string name="MODEL">list</string>
+    <string name="position">position</string>
+    <string name="detail_tag_training_cost">Training Cost</string>
+    <string name="detail_tag_upgrading_time">Upgrade Time</string>
+    <string name="thbasic_max_building">Maximum Number of Buildings Available*</string>
+    <string name="thbasic_max_traps">"Maximum Number of Traps Available "</string>
+    <string name="thbasic_buildings_avail">Buildings Available</string>
+    <string name="thbasic_storage_avail">TownHall Storage Capacity</string>
+    <string name="thbasic_storage_gold">Gold</string>
+    <string name="thbasic_storage_elixir">Elixir</string>
+    <string name="thbasic_storage_dark_elixir">Dark Elixir</string>
+    <string name="thbasic_resourse_builds">Resource Buildings</string>
+    <string name="thbasic_army_builds">Army Buildings</string>
+    <string name="thbasic_def_builds">Defensive Buildings</string>
+    <string name="thbasic_def_traps">Traps</string>
+    <string name="thbasic_th_level">"TH Level : "</string>
+    <string name="thbasic_name">Name</string>
+    <string name="thbasic_no">Count</string>
+    <string name="thbasic_level">Level</string>
+    <string name="upgrade_req">Upgrade Requirement</string>
+    <string name="gearup_req">*Gear Up Details</string>
+</resources>

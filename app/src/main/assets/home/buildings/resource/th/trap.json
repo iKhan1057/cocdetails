@@ -1,0 +1,172 @@
+{
+  "trap": [
+    {
+      "th": "1",
+      "resources": [
+        {"name": "Bomb",               "max_no": "1", "max_update": "2"},
+        {"name": "Spring Trap",        "max_no": "1", "max_update": "2"},
+        {"name": "Air Bomb",           "max_no": "-", "max_update": "-"},
+        {"name": "Giant Bomb",         "max_no": "1", "max_update": "1"},
+        {"name": "Seeking Air Mine",   "max_no": "1", "max_update": "1"},
+        {"name": "Skeleton Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Tornado Trap",       "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "2",
+      "resources": [
+        {"name": "Bomb",               "max_no": "1", "max_update": "2"},
+        {"name": "Spring Trap",        "max_no": "1", "max_update": "2"},
+        {"name": "Air Bomb",           "max_no": "-", "max_update": "-"},
+        {"name": "Giant Bomb",         "max_no": "1", "max_update": "1"},
+        {"name": "Seeking Air Mine",   "max_no": "1", "max_update": "1"},
+        {"name": "Skeleton Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Tornado Trap",       "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "3",
+      "resources": [
+        {"name": "Bomb",               "max_no": "1", "max_update": "2"},
+        {"name": "Spring Trap",        "max_no": "1", "max_update": "2"},
+        {"name": "Air Bomb",           "max_no": "-", "max_update": "-"},
+        {"name": "Giant Bomb",         "max_no": "1", "max_update": "1"},
+        {"name": "Seeking Air Mine",   "max_no": "1", "max_update": "1"},
+        {"name": "Skeleton Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Tornado Trap",       "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "4",
+      "resources": [
+        {"name": "Bomb",               "max_no": "1", "max_update": "2"},
+        {"name": "Spring Trap",        "max_no": "1", "max_update": "2"},
+        {"name": "Air Bomb",           "max_no": "-", "max_update": "-"},
+        {"name": "Giant Bomb",         "max_no": "1", "max_update": "1"},
+        {"name": "Seeking Air Mine",   "max_no": "1", "max_update": "1"},
+        {"name": "Skeleton Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Tornado Trap",       "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "5",
+      "resources": [
+        {"name": "Bomb",               "max_no": "1", "max_update": "2"},
+        {"name": "Spring Trap",        "max_no": "1", "max_update": "2"},
+        {"name": "Air Bomb",           "max_no": "-", "max_update": "-"},
+        {"name": "Giant Bomb",         "max_no": "1", "max_update": "1"},
+        {"name": "Seeking Air Mine",   "max_no": "1", "max_update": "1"},
+        {"name": "Skeleton Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Tornado Trap",       "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "6",
+      "resources": [
+        {"name": "Bomb",               "max_no": "1", "max_update": "2"},
+        {"name": "Spring Trap",        "max_no": "1", "max_update": "2"},
+        {"name": "Air Bomb",           "max_no": "-", "max_update": "-"},
+        {"name": "Giant Bomb",         "max_no": "1", "max_update": "1"},
+        {"name": "Seeking Air Mine",   "max_no": "1", "max_update": "1"},
+        {"name": "Skeleton Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Tornado Trap",       "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "7",
+      "resources": [
+        {"name": "Bomb",               "max_no": "1", "max_update": "2"},
+        {"name": "Spring Trap",        "max_no": "1", "max_update": "2"},
+        {"name": "Air Bomb",           "max_no": "-", "max_update": "-"},
+        {"name": "Giant Bomb",         "max_no": "1", "max_update": "1"},
+        {"name": "Seeking Air Mine",   "max_no": "1", "max_update": "1"},
+        {"name": "Skeleton Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Tornado Trap",       "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "8",
+      "resources": [
+        {"name": "Bomb",               "max_no": "1", "max_update": "2"},
+        {"name": "Spring Trap",        "max_no": "1", "max_update": "2"},
+        {"name": "Air Bomb",           "max_no": "-", "max_update": "-"},
+        {"name": "Giant Bomb",         "max_no": "1", "max_update": "1"},
+        {"name": "Seeking Air Mine",   "max_no": "1", "max_update": "1"},
+        {"name": "Skeleton Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Tornado Trap",       "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "9",
+      "resources": [
+        {"name": "Bomb",               "max_no": "1", "max_update": "2"},
+        {"name": "Spring Trap",        "max_no": "1", "max_update": "2"},
+        {"name": "Air Bomb",           "max_no": "-", "max_update": "-"},
+        {"name": "Giant Bomb",         "max_no": "1", "max_update": "1"},
+        {"name": "Seeking Air Mine",   "max_no": "1", "max_update": "1"},
+        {"name": "Skeleton Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Tornado Trap",       "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "10",
+      "resources": [
+        {"name": "Bomb",               "max_no": "1", "max_update": "2"},
+        {"name": "Spring Trap",        "max_no": "1", "max_update": "2"},
+        {"name": "Air Bomb",           "max_no": "-", "max_update": "-"},
+        {"name": "Giant Bomb",         "max_no": "1", "max_update": "1"},
+        {"name": "Seeking Air Mine",   "max_no": "1", "max_update": "1"},
+        {"name": "Skeleton Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Tornado Trap",       "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "11",
+      "resources": [
+        {"name": "Bomb",               "max_no": "1", "max_update": "2"},
+        {"name": "Spring Trap",        "max_no": "1", "max_update": "2"},
+        {"name": "Air Bomb",           "max_no": "-", "max_update": "-"},
+        {"name": "Giant Bomb",         "max_no": "1", "max_update": "1"},
+        {"name": "Seeking Air Mine",   "max_no": "1", "max_update": "1"},
+        {"name": "Skeleton Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Tornado Trap",       "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "12",
+      "resources": [
+        {"name": "Bomb",               "max_no": "1", "max_update": "2"},
+        {"name": "Spring Trap",        "max_no": "1", "max_update": "2"},
+        {"name": "Air Bomb",           "max_no": "-", "max_update": "-"},
+        {"name": "Giant Bomb",         "max_no": "1", "max_update": "1"},
+        {"name": "Seeking Air Mine",   "max_no": "1", "max_update": "1"},
+        {"name": "Skeleton Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Tornado Trap",       "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "13",
+      "resources": [
+        {"name": "Bomb",               "max_no": "1", "max_update": "2"},
+        {"name": "Spring Trap",        "max_no": "1", "max_update": "2"},
+        {"name": "Air Bomb",           "max_no": "-", "max_update": "-"},
+        {"name": "Giant Bomb",         "max_no": "1", "max_update": "1"},
+        {"name": "Seeking Air Mine",   "max_no": "1", "max_update": "1"},
+        {"name": "Skeleton Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Tornado Trap",       "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "14",
+      "resources": [
+        {"name": "Bomb",               "max_no": "1", "max_update": "2"},
+        {"name": "Spring Trap",        "max_no": "1", "max_update": "2"},
+        {"name": "Air Bomb",           "max_no": "-", "max_update": "-"},
+        {"name": "Giant Bomb",         "max_no": "1", "max_update": "1"},
+        {"name": "Seeking Air Mine",   "max_no": "1", "max_update": "1"},
+        {"name": "Skeleton Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Tornado Trap",       "max_no": "-", "max_update": "-"}
+      ]
+    }
+  ]
+}

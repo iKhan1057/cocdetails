@@ -1,0 +1,11 @@
+{"defence":[
+{"level":"1","cost_gold":"4000",     "cumulative_cost(gold)":"4000",      "cost_elixir":"N/A",      "cumulative_cost(elixir)":"N/A",      "cost_wall(ring)":"N/A","th":"2","bag": "#e0bb7a"},
+{"level":"2","cost_gold":"10,000",   "cumulative_cost(gold)":"14,000",    "cost_elixir":"N/A",      "cumulative_cost(elixir)":"N/A",      "cost_wall(ring)":"1",  "th":"3","bag": "#e0bb7a"},
+{"level":"3","cost_gold":"100,000",  "cumulative_cost(gold)":"114,000",   "cost_elixir":"N/A",      "cumulative_cost(elixir)":"N/A",      "cost_wall(ring)":"1",  "th":"3","bag": "#c39d7c"},
+{"level":"4","cost_gold":"300,000",  "cumulative_cost(gold)":"414,000",   "cost_elixir":"N/A",      "cumulative_cost(elixir)":"N/A",      "cost_wall(ring)":"1",  "th":"4","bag": "#9fa2aa"},
+{"level":"5","cost_gold":"800,000",  "cumulative_cost(gold)":"1,214,000", "cost_elixir":"N/A",      "cumulative_cost(elixir)":"N/A",      "cost_wall(ring)":"2",  "th":"5","bag": "#726d6f"},
+{"level":"6","cost_gold":"1,200,000","cumulative_cost(gold)":"2,414,000", "cost_elixir":"N/A",      "cumulative_cost(elixir)":"N/A",      "cost_wall(ring)":"3",  "th":"6","bag": "#ab938e"},
+{"level":"7","cost_gold":"2,000,000","cumulative_cost(gold)":"4,414,000", "cost_elixir":"2,000,000","cumulative_cost(elixir)":"2,000,000","cost_wall(ring)":"4",  "th":"7","bag": "#d3a086"},
+{"level":"8","cost_gold":"3,000,000","cumulative_cost(gold)":"7,414,000", "cost_elixir":"3,000,000","cumulative_cost(elixir)":"5,000,000","cost_wall(ring)":"6",  "th":"8","bag": "#434061"},
+{"level":"9","cost_gold":"4,000,000","cumulative_cost(gold)":"11,414,000","cost_elixir":"4,000,000","cumulative_cost(elixir)":"9,000,000","cost_wall(ring)":"8",  "th":"9","bag": "#a5a4c2"}
+]}

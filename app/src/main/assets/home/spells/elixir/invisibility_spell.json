@@ -1,0 +1,8 @@
+{
+  "spells": [
+    {"level": "1",  "cost_elixir": "11,000",    "research_cost": "N/A",          "research_time": "N/A",      "lab_level_required": "N/A"},
+    {"level": "2",  "cost_elixir": "12,000",    "research_cost": "9,000,000",    "research_time": "9d",       "lab_level_required": "9"},
+    {"level": "3",  "cost_elixir": "13,000",    "research_cost": "12,000,000",    "research_time": "11d 12h", "lab_level_required": "10"},
+    {"level": "4",  "cost_elixir": "14,000",    "research_cost": "15,000,000",    "research_time": "15d 12h", "lab_level_required": "11"}
+  ]
+}

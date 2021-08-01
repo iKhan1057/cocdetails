@@ -1,0 +1,22 @@
+{"defence":[
+{"level":"1", "build_cost":"250",       "build_time":"10s",    "th":"1"},
+{"level":"2", "build_cost":"1,000",     "build_time":"2m",     "th":"1"},
+{"level":"3", "build_cost":"4,000",     "build_time":"10m",    "th":"2"},
+{"level":"4", "build_cost":"16,000",    "build_time":"45m",    "th":"3"},
+{"level":"5", "build_cost":"50,000",    "build_time":"2h",     "th":"4"},
+{"level":"6", "build_cost":"100,000",   "build_time":"4h",     "th":"5"},
+{"level":"7", "build_cost":"200,000",   "build_time":"8h",     "th":"6"},
+{"level":"8", "build_cost":"400,000",   "build_time":"10h",    "th":"7"},
+{"level":"9", "build_cost":"600,000",   "build_time":"12h",    "th":"8"},
+{"level":"10","build_cost":"800,000",   "build_time":"18h",    "th":"8"},
+{"level":"11","build_cost":"1,250,000", "build_time":"1d",     "th":"9"},
+{"level":"12","build_cost":"2,000,000", "build_time":"1d 12h", "th":"10"},
+{"level":"13","build_cost":"3,000,000", "build_time":"2d 12h", "th":"10"},
+{"level":"14","build_cost":"5,500,000", "build_time":"4d 12h", "th":"11"},
+{"level":"15","build_cost":"7,000,000", "build_time":"6d",     "th":"11"},
+{"level":"16","build_cost":"9,000,000", "build_time":"9d",     "th":"12"},
+{"level":"17","build_cost":"12,000,000","build_time":"12d",    "th":"12"},
+{"level":"18","build_cost":"14,000,000","build_time":"15d",    "th":"13"},
+{"level":"19","build_cost":"16,000,000","build_time":"16d",    "th":"13"},
+{"level":"20","build_cost":"17,500,000","build_time":"17d",    "th":"14"}
+]}

@@ -1,0 +1,32 @@
+{
+  "army_buildings": [
+    {
+      "id": "army_camp",
+      "name": "Army Camp"
+    },
+    {
+      "id": "barracks",
+      "name": "Barracks"
+    },
+    {
+      "id": "dark_barracks",
+      "name": "Dark Barracks"
+    },
+    {
+      "id": "laboratory",
+      "name": "Laboratory"
+    },
+    {
+      "id": "spell_factory",
+      "name": "Spell Factory"
+    },
+    {
+      "id": "dark_spell_factory",
+      "name": "Dark Spell Factory"
+    },
+    {
+      "id": "workshop",
+      "name": "Workshop"
+    }
+  ]
+}

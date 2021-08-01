@@ -1,0 +1,175 @@
+{
+  "defensive_building": [
+    {
+      "th": "1",
+      "resources": [
+        {"name": "Cannon",             "max_no": "1",  "max_update": "-"},
+        {"name": "Archer Tower",       "max_no": "-",  "max_update": "-"},
+        {"name": "Double Cannon",      "max_no": "-",  "max_update": "-"},
+        {"name": "Hidden Tesla",       "max_no": "-",  "max_update": "-"},
+        {"name": "Firecrackers",       "max_no": "-",  "max_update": "-"},
+        {"name": "Crusher",            "max_no": "-",  "max_update": "-"},
+        {"name": "Guard Post",         "max_no": "-",  "max_update": "-"},
+        {"name": "Air Bombs",          "max_no": "-",  "max_update": "-"},
+        {"name": "Multi Mortar",       "max_no": "-",  "max_update": "-"},
+        {"name": "Roaster",            "max_no": "-",  "max_update": "-"},
+        {"name": "Giant Cannon",       "max_no": "-",  "max_update": "-"},
+        {"name": "Mega Tesla",         "max_no": "-",  "max_update": "-"},
+        {"name": "Lava Launcher",      "max_no": "-",  "max_update": "-"},
+        {"name": "Walls",              "max_no": "2",  "max_update": "1"}
+      ]
+    },
+    {
+      "th": "2",
+      "resources": [
+        {"name": "Cannon",             "max_no": "1",  "max_update": "1"},
+        {"name": "Archer Tower",       "max_no": "1",  "max_update": "1"},
+        {"name": "Double Cannon",      "max_no": "1",  "max_update": "1"},
+        {"name": "Hidden Tesla",       "max_no": "-",  "max_update": "-"},
+        {"name": "Firecrackers",       "max_no": "-",  "max_update": "-"},
+        {"name": "Crusher",            "max_no": "-",  "max_update": "-"},
+        {"name": "Guard Post",         "max_no": "-",  "max_update": "-"},
+        {"name": "Air Bombs",          "max_no": "-",  "max_update": "-"},
+        {"name": "Multi Mortar",       "max_no": "-",  "max_update": "-"},
+        {"name": "Roaster",            "max_no": "-",  "max_update": "-"},
+        {"name": "Giant Cannon",       "max_no": "-",  "max_update": "-"},
+        {"name": "Mega Tesla",         "max_no": "-",  "max_update": "-"},
+        {"name": "Lava Launcher",      "max_no": "-",  "max_update": "-"},
+        {"name": "Walls",              "max_no": "4",  "max_update": "1"}
+      ]
+    },
+    {
+      "th": "3",
+      "resources": [
+        {"name": "Cannon",             "max_no": "2",  "max_update": "3"},
+        {"name": "Archer Tower",       "max_no": "1",  "max_update": "3"},
+        {"name": "Double Cannon",      "max_no": "1",  "max_update": "3"},
+        {"name": "Hidden Tesla",       "max_no": "1",  "max_update": "3"},
+        {"name": "Firecrackers",       "max_no": "1",  "max_update": "3"},
+        {"name": "Crusher",            "max_no": "1",  "max_update": "2"},
+        {"name": "Guard Post",         "max_no": "-",  "max_update": "-"},
+        {"name": "Air Bombs",          "max_no": "-",  "max_update": "-"},
+        {"name": "Multi Mortar",       "max_no": "-",  "max_update": "-"},
+        {"name": "Roaster",            "max_no": "-",  "max_update": "-"},
+        {"name": "Giant Cannon",       "max_no": "-",  "max_update": "-"},
+        {"name": "Mega Tesla",         "max_no": "-",  "max_update": "-"},
+        {"name": "Lava Launcher",      "max_no": "-",  "max_update": "-"},
+        {"name": "Walls",              "max_no": "10", "max_update": "3"}
+      ]
+    },
+    {
+      "th": "4",
+      "resources": [
+        {"name": "Cannon",             "max_no": "2",  "max_update": "4"},
+        {"name": "Archer Tower",       "max_no": "2",  "max_update": "4"},
+        {"name": "Double Cannon",      "max_no": "1",  "max_update": "4"},
+        {"name": "Hidden Tesla",       "max_no": "1",  "max_update": "4"},
+        {"name": "Firecrackers",       "max_no": "1",  "max_update": "4"},
+        {"name": "Crusher",            "max_no": "1",  "max_update": "4"},
+        {"name": "Guard Post",         "max_no": "1",  "max_update": "4"},
+        {"name": "Air Bombs",          "max_no": "1",  "max_update": "4"},
+        {"name": "Multi Mortar",       "max_no": "-",  "max_update": "-"},
+        {"name": "Roaster",            "max_no": "-",  "max_update": "-"},
+        {"name": "Giant Cannon",       "max_no": "-",  "max_update": "-"},
+        {"name": "Mega Tesla",         "max_no": "-",  "max_update": "-"},
+        {"name": "Lava Launcher",      "max_no": "-",  "max_update": "-"},
+        {"name": "Walls",              "max_no": "15", "max_update": "4"}
+      ]
+    },
+    {
+      "th": "5",
+      "resources": [
+        {"name": "Cannon",             "max_no": "2",  "max_update": "5"},
+        {"name": "Archer Tower",       "max_no": "-",  "max_update": "5"},
+        {"name": "Double Cannon",      "max_no": "-",  "max_update": "5"},
+        {"name": "Hidden Tesla",       "max_no": "-",  "max_update": "5"},
+        {"name": "Firecrackers",       "max_no": "-",  "max_update": "5"},
+        {"name": "Crusher",            "max_no": "-",  "max_update": "5"},
+        {"name": "Guard Post",         "max_no": "-",  "max_update": "5"},
+        {"name": "Air Bombs",          "max_no": "-",  "max_update": "5"},
+        {"name": "Multi Mortar",       "max_no": "-",  "max_update": "5"},
+        {"name": "Roaster",            "max_no": "-",  "max_update": "-"},
+        {"name": "Giant Cannon",       "max_no": "-",  "max_update": "-"},
+        {"name": "Mega Tesla",         "max_no": "-",  "max_update": "-"},
+        {"name": "Lava Launcher",      "max_no": "-",  "max_update": "-"},
+        {"name": "Walls",              "max_no": "20", "max_update": "5"}
+      ]
+    },
+    {
+      "th": "6",
+      "resources": [
+        {"name": "Cannon",             "max_no": "2",  "max_update": "6"},
+        {"name": "Archer Tower",       "max_no": "2",  "max_update": "6"},
+        {"name": "Double Cannon",      "max_no": "2",  "max_update": "6"},
+        {"name": "Hidden Tesla",       "max_no": "1",  "max_update": "6"},
+        {"name": "Firecrackers",       "max_no": "1",  "max_update": "6"},
+        {"name": "Crusher",            "max_no": "1",  "max_update": "6"},
+        {"name": "Guard Post",         "max_no": "1",  "max_update": "6"},
+        {"name": "Air Bombs",          "max_no": "1",  "max_update": "6"},
+        {"name": "Multi Mortar",       "max_no": "1",  "max_update": "6"},
+        {"name": "Roaster",            "max_no": "-",  "max_update": "6"},
+        {"name": "Giant Cannon",       "max_no": "-",  "max_update": "-"},
+        {"name": "Mega Tesla",         "max_no": "-",  "max_update": "-"},
+        {"name": "Lava Launcher",      "max_no": "-",  "max_update": "-"},
+        {"name": "Walls",              "max_no": "24", "max_update": "6"}
+      ]
+    },
+    {
+      "th": "7",
+      "resources": [
+        {"name": "Cannon",             "max_no": "2",  "max_update": "7"},
+        {"name": "Archer Tower",       "max_no": "3",  "max_update": "7"},
+        {"name": "Double Cannon",      "max_no": "2",  "max_update": "7"},
+        {"name": "Hidden Tesla",       "max_no": "2",  "max_update": "7"},
+        {"name": "Firecrackers",       "max_no": "3",  "max_update": "7"},
+        {"name": "Crusher",            "max_no": "1",  "max_update": "7"},
+        {"name": "Guard Post",         "max_no": "1",  "max_update": "7"},
+        {"name": "Air Bombs",          "max_no": "1",  "max_update": "7"},
+        {"name": "Multi Mortar",       "max_no": "1",  "max_update": "7"},
+        {"name": "Roaster",            "max_no": "1",  "max_update": "7"},
+        {"name": "Giant Cannon",       "max_no": "1",  "max_update": "7"},
+        {"name": "Mega Tesla",         "max_no": "-",  "max_update": "-"},
+        {"name": "Lava Launcher",      "max_no": "-",  "max_update": "-"},
+        {"name": "Walls",              "max_no": "28", "max_update": "7"}
+      ]
+    },
+    {
+      "th": "8",
+      "resources": [
+        {"name": "Cannon",             "max_no": "3",  "max_update": "8"},
+        {"name": "Archer Tower",       "max_no": "3",  "max_update": "8"},
+        {"name": "Double Cannon",      "max_no": "3",  "max_update": "8"},
+        {"name": "Hidden Tesla",       "max_no": "3",  "max_update": "8"},
+        {"name": "Firecrackers",       "max_no": "4",  "max_update": "8"},
+        {"name": "Crusher",            "max_no": "2",  "max_update": "8"},
+        {"name": "Guard Post",         "max_no": "1",  "max_update": "8"},
+        {"name": "Air Bombs",          "max_no": "1",  "max_update": "8"},
+        {"name": "Multi Mortar",       "max_no": "1",  "max_update": "8"},
+        {"name": "Roaster",            "max_no": "1",  "max_update": "8"},
+        {"name": "Giant Cannon",       "max_no": "1",  "max_update": "8"},
+        {"name": "Mega Tesla",         "max_no": "1",  "max_update": "8"},
+        {"name": "Lava Launcher",      "max_no": "-",  "max_update": "-"},
+        {"name": "Walls",              "max_no": "32", "max_update": "8"}
+      ]
+    },
+    {
+      "th": "9",
+      "resources": [
+        {"name": "Cannon",             "max_no": "3",  "max_update": "9"},
+        {"name": "Archer Tower",       "max_no": "3",  "max_update": "9"},
+        {"name": "Double Cannon",      "max_no": "3",  "max_update": "9"},
+        {"name": "Hidden Tesla",       "max_no": "3",  "max_update": "9"},
+        {"name": "Firecrackers",       "max_no": "5",  "max_update": "9"},
+        {"name": "Crusher",            "max_no": "2",  "max_update": "9"},
+        {"name": "Guard Post",         "max_no": "1",  "max_update": "9"},
+        {"name": "Air Bombs",          "max_no": "1",  "max_update": "9"},
+        {"name": "Multi Mortar",       "max_no": "1",  "max_update": "9"},
+        {"name": "Roaster",            "max_no": "1",  "max_update": "9"},
+        {"name": "Giant Cannon",       "max_no": "1",  "max_update": "9"},
+        {"name": "Mega Tesla",         "max_no": "1",  "max_update": "9"},
+        {"name": "Lava Launcher",      "max_no": "1",  "max_update": "9"},
+        {"name": "Walls",              "max_no": "36", "max_update": "9"}
+      ]
+    }
+  ]
+}

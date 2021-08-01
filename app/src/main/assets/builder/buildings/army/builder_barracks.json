@@ -1,0 +1,15 @@
+{
+  "army": [
+    {"level": "1",      "troop_unlocked": "Raged Barbarian",  "build_cost": "1,000",      "build_time": "N/A",    "th": "2"},
+    {"level": "2",      "troop_unlocked": "Sneaky Archer",    "build_cost": "4,000",      "build_time": "1m",     "th": "2"},
+    {"level": "3",      "troop_unlocked": "Boxer Giant",      "build_cost": "10,000",     "build_time": "10m",    "th": "3"},
+    {"level": "4",      "troop_unlocked": "Beta Minion",      "build_cost": "25,000",     "build_time": "30m",    "th": "3"},
+    {"level": "5",      "troop_unlocked": "Bomber",           "build_cost": "100,000",    "build_time": "3h",     "th": "4"},
+    {"level": "6",      "troop_unlocked": "Baby Dragon",      "build_cost": "150,000",    "build_time": "6h",     "th": "4"},
+    {"level": "7",      "troop_unlocked": "Cannon Cart",      "build_cost": "300,000",    "build_time": "8h",     "th": "5"},
+    {"level": "8",      "troop_unlocked": "Night Witch",      "build_cost": "500,000",    "build_time": "10h",    "th": "6"},
+    {"level": "9",      "troop_unlocked": "Drop Ship",        "build_cost": "1,000,000",  "build_time": "12h",    "th": "7"},
+    {"level": "10",     "troop_unlocked": "Super P.E.K.K.A",  "build_cost": "1,500,000",  "build_time": "1d",     "th": "8"},
+    {"level": "11",     "troop_unlocked": "Hog Glider",       "build_cost": "2,000,000",  "build_time": "1d 12h", "th": "9"}
+  ]
+}

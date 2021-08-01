@@ -1,0 +1,15 @@
+{
+  "army_building": [
+    {"level": "1",      "troop_capacity": "20",      "build_cost": "200",          "build_time": "5m",       "th": "1"},
+    {"level": "2",      "troop_capacity": "30",      "build_cost": "2,000",        "build_time": "15m",      "th": "2"},
+    {"level": "3",      "troop_capacity": "35",      "build_cost": "10,000",       "build_time": "2h",       "th": "3"},
+    {"level": "4",      "troop_capacity": "40",      "build_cost": "100,000",      "build_time": "5h",       "th": "4"},
+    {"level": "5",      "troop_capacity": "45",      "build_cost": "250,000",      "build_time": "8h",       "th": "5"},
+    {"level": "6",      "troop_capacity": "50",      "build_cost": "750,000",      "build_time": "12h",      "th": "6"},
+    {"level": "7",      "troop_capacity": "55",      "build_cost": "1,500,000",    "build_time": "2d",       "th": "9"},
+    {"level": "8",      "troop_capacity": "60",      "build_cost": "3,000,000",    "build_time": "3d 12h",   "th": "10"},
+    {"level": "9",      "troop_capacity": "65",      "build_cost": "6,000,000",    "build_time": "9d",       "th": "11"},
+    {"level": "10",     "troop_capacity": "70",      "build_cost": "9,000,000",    "build_time": "14d",      "th": "12"},
+    {"level": "11",     "troop_capacity": "75",      "build_cost": "16,000,000",   "build_time": "16d",      "th": "13"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "army": [
+    {"level": "1",      "research_cost": "N/A",         "research_time": "N/A",       "lab": "N/A"},
+    {"level": "2",      "research_cost": "75,000",      "research_time": "6d",        "lab": "8"},
+    {"level": "3",      "research_cost": "125,000",     "research_time": "9d",       "lab": "9"},
+    {"level": "4",      "research_cost": "200,000",     "research_time": "14d",      "lab": "10"},
+    {"level": "5",      "research_cost": "280,000",     "research_time": "16d",      "lab": "11"}
+  ]
+}

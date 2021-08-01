@@ -1,0 +1,13 @@
+{
+  "army": [
+    {"level": "1",      "research_cost": "N/A",            "research_time": "N/A",         "lab": "N/A"},
+    {"level": "2",      "research_cost": "1,750,000",      "research_time": "1d 12h",      "lab": "5"},
+    {"level": "3",      "research_cost": "2,500,000",      "research_time": "3d",          "lab": "6"},
+    {"level": "4",      "research_cost": "4,000,000",      "research_time": "5d",          "lab": "7"},
+    {"level": "5",      "research_cost": "6,000,000",      "research_time": "7d",          "lab": "8"},
+    {"level": "6",      "research_cost": "8,000,000",      "research_time": "9d",          "lab": "9"},
+    {"level": "7",      "research_cost": "10,000,000",     "research_time": "14d",         "lab": "10"},
+    {"level": "8",      "research_cost": "15,000,000",     "research_time": "16d",         "lab": "11"},
+    {"level": "9",      "research_cost": "18,500,000",     "research_time": "18d",         "lab": "12"}
+  ]
+}

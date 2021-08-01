@@ -1,0 +1,14 @@
+{
+  "pets": [
+    {"level": "1",      "upgrade_cost": "N/A",          "upgrade_time": "N/A"},
+    {"level": "2",      "upgrade_cost": "115,000",      "upgrade_time": "3d"},
+    {"level": "3",      "upgrade_cost": "130,000",      "upgrade_time": "4d"},
+    {"level": "4",      "upgrade_cost": "145,000",      "upgrade_time": "5d"},
+    {"level": "5",      "upgrade_cost": "160,000",      "upgrade_time": "5d 12h"},
+    {"level": "6",      "upgrade_cost": "175,000",      "upgrade_time": "6d"},
+    {"level": "7",      "upgrade_cost": "190,000",      "upgrade_time": "6d 12h"},
+    {"level": "8",      "upgrade_cost": "205,000",      "upgrade_time": "7d"},
+    {"level": "9",      "upgrade_cost": "220,000",      "upgrade_time": "7d 12h"},
+    {"level": "10",     "upgrade_cost": "235,000",      "upgrade_time": "8d"}
+  ]
+}

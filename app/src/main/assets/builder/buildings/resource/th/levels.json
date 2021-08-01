@@ -1,0 +1,11 @@
+{"thlevels": [
+{"level": "1","build_cost":"N/A",      "build_time":"N/A","max_def_build":"0",       "max_def_traps": "00"},
+{"level": "2","build_cost":"3,500",    "build_time":"5s", "max_def_build":"10",      "max_def_traps": "00"},
+{"level": "3","build_cost":"30,000",   "build_time":"1h", "max_def_build":"18",      "max_def_traps": "00"},
+{"level": "4","build_cost":"200,000",  "build_time":"1d", "max_def_build":"23",      "max_def_traps": "00"},
+{"level": "5","build_cost":"400,000",  "build_time":"2d", "max_def_build":"31",      "max_def_traps": "00"},
+{"level": "6","build_cost":"1,200,000","build_time":"3d", "max_def_build":"34",      "max_def_traps": "00"},
+{"level": "7","build_cost":"1,800,000","build_time":"4d", "max_def_build":"38",      "max_def_traps": "00"},
+{"level": "8","build_cost":"2,800,000","build_time":"5d", "max_def_build":"46",      "max_def_traps": "00"},
+{"level": "9","build_cost":"3,800,000","build_time":"6d", "max_def_build":"49",      "max_def_traps": "00"}
+]}

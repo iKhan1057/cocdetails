@@ -1,0 +1,11 @@
+{"resource": [
+  {"level": "1","capacity": "70,000",   "hitpoint":"650",  "build_cost":"20,000",   "build_time":"30m",   "th":"3"},
+  {"level": "2","capacity": "150,000",  "hitpoint":"800",  "build_cost":"80,000",   "build_time":"1h",    "th":"3"},
+  {"level": "3","capacity": "250,000",  "hitpoint":"960",  "build_cost":"200,000",  "build_time":"3h",    "th":"4"},
+  {"level": "4","capacity": "350,000",  "hitpoint":"1,152","build_cost":"300,000",  "build_time":"6h",    "th":"4"},
+  {"level": "5","capacity": "600,000",  "hitpoint":"1,382","build_cost":"600,000",  "build_time":"8h",    "th":"5"},
+  {"level": "6","capacity": "800,000",  "hitpoint":"1,658","build_cost":"1,000,000","build_time":"10h",   "th":"6"},
+  {"level": "7","capacity": "1,200,000","hitpoint":"1,990","build_cost":"1,500,000","build_time":"12h",   "th":"7"},
+  {"level": "8","capacity": "1,600,000","hitpoint":"2,388","build_cost":"2,000,000","build_time":"1d",    "th":"8"},
+  {"level": "9","capacity": "2,000,000","hitpoint":"2,507","build_cost":"2,500,000","build_time":"1d 12h","th":"9"}
+]}

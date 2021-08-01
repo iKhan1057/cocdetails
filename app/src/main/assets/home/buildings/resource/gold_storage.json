@@ -1,0 +1,16 @@
+{"resource":[
+  {"level":"1","storage_capacity":"1,500","build_cost":"300","build_time":"10s","th":"1"},
+  {"level":"2","storage_capacity":"3,000","build_cost":"750","build_time":"15m","th":"2"},
+  {"level":"3","storage_capacity":"6,000","build_cost":"1,500","build_time":"30m","th":"2"},
+  {"level":"4","storage_capacity":"12,000","build_cost":"3,000","build_time":"1h","th":"3"},
+  {"level":"5","storage_capacity":"25,000","build_cost":"6,000","build_time":"2h","th":"3"},
+  {"level":"6","storage_capacity":"45,000","build_cost":"12,000","build_time":"3h","th":"3"},
+  {"level":"7","storage_capacity":"100,000","build_cost":"25,000","build_time":"4h","th":"4"},
+  {"level":"8","storage_capacity":"225,000","build_cost":"50,000","build_time":"5h","th":"4"},
+  {"level":"9","storage_capacity":"450,000","build_cost":"100,000","build_time":"8h","th":"5"},
+  {"level":"10","storage_capacity":"850,000","build_cost":"250,000","build_time":"12h","th":"6"},
+  {"level":"11","storage_capacity":"1,750,000","build_cost":"500,000","build_time":"16h","th":"7"},
+  {"level":"12","storage_capacity":"2,000,000","build_cost":"1,500,000","build_time":"3d","th":"11"},
+  {"level":"13","storage_capacity":"3,000,000","build_cost":"3,000,000","build_time":"6d","th":"12"},
+  {"level":"14","storage_capacity":"4,000,000","build_cost":"4,500,000","build_time":"9d","th":"13"}
+]}

@@ -1,0 +1,94 @@
+{
+  "resourse_building": [
+    {
+      "th": "1",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "1", "max_update": "-"},
+        {"name": "Elixir Collector",   "max_no": "1", "max_update": "-"},
+        {"name": "Gold Storage",       "max_no": "-", "max_update": "-"},
+        {"name": "Elixir Storage",     "max_no": "-", "max_update": "-"},
+        {"name": "Gem Mine",           "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "2",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "1", "max_update": "1"},
+        {"name": "Elixir Collector",   "max_no": "1", "max_update": "1"},
+        {"name": "Gold Storage",       "max_no": "-", "max_update": "-"},
+        {"name": "Elixir Storage",     "max_no": "-", "max_update": "-"},
+        {"name": "Gem Mine",           "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "3",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "1", "max_update": "3"},
+        {"name": "Elixir Collector",   "max_no": "1", "max_update": "3"},
+        {"name": "Gold Storage",       "max_no": "1", "max_update": "2"},
+        {"name": "Elixir Storage",     "max_no": "1", "max_update": "2"},
+        {"name": "Gem Mine",           "max_no": "1", "max_update": "3"}
+      ]
+    },
+    {
+      "th": "4",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "1", "max_update": "4"},
+        {"name": "Elixir Collector",   "max_no": "1", "max_update": "4"},
+        {"name": "Gold Storage",       "max_no": "1", "max_update": "4"},
+        {"name": "Elixir Storage",     "max_no": "1", "max_update": "4"},
+        {"name": "Gem Mine",           "max_no": "1", "max_update": "4"}
+      ]
+    },
+    {
+      "th": "5",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "2", "max_update": "5"},
+        {"name": "Elixir Collector",   "max_no": "2", "max_update": "5"},
+        {"name": "Gold Storage",       "max_no": "2", "max_update": "5"},
+        {"name": "Elixir Storage",     "max_no": "2", "max_update": "5"},
+        {"name": "Gem Mine",           "max_no": "1", "max_update": "5"}
+      ]
+    },
+    {
+      "th": "6",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "2", "max_update": "6"},
+        {"name": "Elixir Collector",   "max_no": "2", "max_update": "6"},
+        {"name": "Gold Storage",       "max_no": "2", "max_update": "6"},
+        {"name": "Elixir Storage",     "max_no": "2", "max_update": "6"},
+        {"name": "Gem Mine",           "max_no": "1", "max_update": "6"}
+      ]
+    },
+    {
+      "th": "7",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "2", "max_update": "7"},
+        {"name": "Elixir Collector",   "max_no": "2", "max_update": "7"},
+        {"name": "Gold Storage",       "max_no": "2", "max_update": "7"},
+        {"name": "Elixir Storage",     "max_no": "2", "max_update": "7"},
+        {"name": "Gem Mine",           "max_no": "1", "max_update": "7"}
+      ]
+    },
+    {
+      "th": "8",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "3", "max_update": "8"},
+        {"name": "Elixir Collector",   "max_no": "3", "max_update": "8"},
+        {"name": "Gold Storage",       "max_no": "2", "max_update": "8"},
+        {"name": "Elixir Storage",     "max_no": "2", "max_update": "8"},
+        {"name": "Gem Mine",           "max_no": "1", "max_update": "8"}
+      ]
+    },
+    {
+      "th": "9",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "3", "max_update": "9"},
+        {"name": "Elixir Collector",   "max_no": "3", "max_update": "9"},
+        {"name": "Gold Storage",       "max_no": "2", "max_update": "9"},
+        {"name": "Elixir Storage",     "max_no": "2", "max_update": "9"},
+        {"name": "Gem Mine",           "max_no": "1", "max_update": "9"}
+      ]
+    }
+  ]
+}

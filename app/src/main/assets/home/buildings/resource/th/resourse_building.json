@@ -1,0 +1,172 @@
+{
+  "resourse_building": [
+    {
+      "th": "1",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "1", "max_update": "2"},
+        {"name": "Elixir Collector",   "max_no": "1", "max_update": "2"},
+        {"name": "Dark Elixir Drill",  "max_no": "-",  "max_update": "-" },
+        {"name": "Gold Storage",       "max_no": "1", "max_update": "1"},
+        {"name": "Elixir Storage",     "max_no": "1", "max_update": "1"},
+        {"name": "Dark Elixir Storage","max_no": "-",  "max_update": "-"},
+        {"name": "Clan Castle",        "max_no": "-",  "max_update": "-"}
+      ]
+    },
+    {
+      "th": "2",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "2", "max_update": "4"},
+        {"name": "Elixir Collector",   "max_no": "2", "max_update": "4"},
+        {"name": "Dark Elixir Drill",  "max_no": "-",  "max_update": "-" },
+        {"name": "Gold Storage",       "max_no": "1", "max_update": "3"},
+        {"name": "Elixir Storage",     "max_no": "1", "max_update": "3"},
+        {"name": "Dark Elixir Storage","max_no": "-",  "max_update": "-"},
+        {"name": "Clan Castle",        "max_no": "1",  "max_update": "1"}
+      ]
+    },
+    {
+      "th": "3",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "3", "max_update": "6"},
+        {"name": "Elixir Collector",   "max_no": "3", "max_update": "6"},
+        {"name": "Dark Elixir Drill",  "max_no": "-",  "max_update": "-" },
+        {"name": "Gold Storage",       "max_no": "2", "max_update": "6"},
+        {"name": "Elixir Storage",     "max_no": "2", "max_update": "6"},
+        {"name": "Dark Elixir Storage","max_no": "-",  "max_update": "-"},
+        {"name": "Clan Castle",        "max_no": "1",  "max_update": "1"}
+      ]
+    },
+    {
+      "th": "4",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "4", "max_update": "8"},
+        {"name": "Elixir Collector",   "max_no": "4", "max_update": "8"},
+        {"name": "Dark Elixir Drill",  "max_no": "-",  "max_update": "-" },
+        {"name": "Gold Storage",       "max_no": "2", "max_update": "8"},
+        {"name": "Elixir Storage",     "max_no": "2", "max_update": "8"},
+        {"name": "Dark Elixir Storage","max_no": "-",  "max_update": "-"},
+        {"name": "Clan Castle",        "max_no": "1",  "max_update": "2"}
+      ]
+    },
+    {
+      "th": "5",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "5", "max_update": "10"},
+        {"name": "Elixir Collector",   "max_no": "5", "max_update": "10"},
+        {"name": "Dark Elixir Drill",  "max_no": "-",  "max_update": "-" },
+        {"name": "Gold Storage",       "max_no": "2", "max_update": "9"},
+        {"name": "Elixir Storage",     "max_no": "2", "max_update": "9"},
+        {"name": "Dark Elixir Storage","max_no": "-",  "max_update": "-"},
+        {"name": "Clan Castle",        "max_no": "1",  "max_update": "2"}
+      ]
+    },
+    {
+      "th": "6",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "6", "max_update": "10"},
+        {"name": "Elixir Collector",   "max_no": "6", "max_update": "10"},
+        {"name": "Dark Elixir Drill",  "max_no": "-",  "max_update": "-" },
+        {"name": "Gold Storage",       "max_no": "2", "max_update": "10"},
+        {"name": "Elixir Storage",     "max_no": "2", "max_update": "10"},
+        {"name": "Dark Elixir Storage","max_no": "-",  "max_update": "-"},
+        {"name": "Clan Castle",        "max_no": "1",  "max_update": "3"}
+      ]
+    },
+    {
+      "th": "7",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "6", "max_update": "11"},
+        {"name": "Elixir Collector",   "max_no": "6", "max_update": "11"},
+        {"name": "Dark Elixir Drill",  "max_no": "1", "max_update": "3" },
+        {"name": "Gold Storage",       "max_no": "2", "max_update": "11"},
+        {"name": "Elixir Storage",     "max_no": "2", "max_update": "11"},
+        {"name": "Dark Elixir Storage","max_no": "1", "max_update": "2"},
+        {"name": "Clan Castle",        "max_no": "1", "max_update": "3"}
+      ]
+    },
+    {
+      "th": "8",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "6", "max_update": "12"},
+        {"name": "Elixir Collector",   "max_no": "6", "max_update": "12"},
+        {"name": "Dark Elixir Drill",  "max_no": "2",  "max_update": "3" },
+        {"name": "Gold Storage",       "max_no": "3", "max_update": "11"},
+        {"name": "Elixir Storage",     "max_no": "3", "max_update": "11"},
+        {"name": "Dark Elixir Storage","max_no": "1",  "max_update": "4"},
+        {"name": "Clan Castle",        "max_no": "1",  "max_update": "4"}
+      ]
+    },
+    {
+      "th": "9",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "7", "max_update": "12"},
+        {"name": "Elixir Collector",   "max_no": "7", "max_update": "12"},
+        {"name": "Dark Elixir Drill",  "max_no": "3",  "max_update": "6" },
+        {"name": "Gold Storage",       "max_no": "4", "max_update": "11"},
+        {"name": "Elixir Storage",     "max_no": "4", "max_update": "11"},
+        {"name": "Dark Elixir Storage","max_no": "1",  "max_update": "6"},
+        {"name": "Clan Castle",        "max_no": "1",  "max_update": "5"}
+      ]
+    },
+    {
+      "th": "10",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "7", "max_update": "13"},
+        {"name": "Elixir Collector",   "max_no": "7", "max_update": "13"},
+        {"name": "Dark Elixir Drill",  "max_no": "3",  "max_update": "7" },
+        {"name": "Gold Storage",       "max_no": "4", "max_update": "11"},
+        {"name": "Elixir Storage",     "max_no": "4", "max_update": "11"},
+        {"name": "Dark Elixir Storage","max_no": "1",  "max_update": "6"},
+        {"name": "Clan Castle",        "max_no": "1",  "max_update": "6"}
+      ]
+    },
+    {
+      "th": "11",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "7", "max_update": "14"},
+        {"name": "Elixir Collector",   "max_no": "7", "max_update": "14"},
+        {"name": "Dark Elixir Drill",  "max_no": "3",  "max_update": "8" },
+        {"name": "Gold Storage",       "max_no": "4", "max_update": "12"},
+        {"name": "Elixir Storage",     "max_no": "4", "max_update": "12"},
+        {"name": "Dark Elixir Storage","max_no": "1",  "max_update": "6"},
+        {"name": "Clan Castle",        "max_no": "1",  "max_update": "7"}
+      ]
+    },
+    {
+      "th": "12",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "7", "max_update": "14"},
+        {"name": "Elixir Collector",   "max_no": "7", "max_update": "14"},
+        {"name": "Dark Elixir Drill",  "max_no": "3",  "max_update": "8" },
+        {"name": "Gold Storage",       "max_no": "4", "max_update": "13"},
+        {"name": "Elixir Storage",     "max_no": "4", "max_update": "13"},
+        {"name": "Dark Elixir Storage","max_no": "1",  "max_update": "7"},
+        {"name": "Clan Castle",        "max_no": "1",  "max_update": "8"}
+      ]
+    },
+    {
+      "th": "13",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "7", "max_update": "14"},
+        {"name": "Elixir Collector",   "max_no": "7", "max_update": "14"},
+        {"name": "Dark Elixir Drill",  "max_no": "3",  "max_update": "8" },
+        {"name": "Gold Storage",       "max_no": "4", "max_update": "14"},
+        {"name": "Elixir Storage",     "max_no": "4", "max_update": "14"},
+        {"name": "Dark Elixir Storage","max_no": "1",  "max_update": "8"},
+        {"name": "Clan Castle",        "max_no": "1",  "max_update": "9"}
+      ]
+    },
+    {
+      "th": "14",
+      "resources": [
+        {"name": "Gold Mine",          "max_no": "7", "max_update": "14"},
+        {"name": "Elixir Collector",   "max_no": "7", "max_update": "14"},
+        {"name": "Dark Elixir Drill",  "max_no": "3",  "max_update": "8" },
+        {"name": "Gold Storage",       "max_no": "4", "max_update": "15"},
+        {"name": "Elixir Storage",     "max_no": "4", "max_update": "15"},
+        {"name": "Dark Elixir Storage","max_no": "1",  "max_update": "9"},
+        {"name": "Clan Castle",        "max_no": "1",  "max_update": "10"}
+      ]
+    }
+  ]
+}

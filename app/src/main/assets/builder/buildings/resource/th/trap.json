@@ -1,0 +1,85 @@
+{
+  "trap": [
+    {
+      "th": "1",
+      "resources": [
+        {"name": "Push Trap",      "max_no": "-", "max_update": "-"},
+        {"name": "Spring Trap",    "max_no": "-", "max_update": "-"},
+        {"name": "Mine",           "max_no": "-", "max_update": "-"},
+        {"name": "Mega Mine",      "max_no": "-", "max_update": "-"}
+     ]
+    },
+    {
+      "th": "2",
+      "resources": [
+        {"name": "Push Trap",      "max_no": "1", "max_update": "1"},
+        {"name": "Spring Trap",    "max_no": "-", "max_update": "-"},
+        {"name": "Mine",           "max_no": "-", "max_update": "-"},
+        {"name": "Mega Mine",      "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "3",
+      "resources": [
+        {"name": "Push Trap",      "max_no": "2", "max_update": "3"},
+        {"name": "Spring Trap",    "max_no": "2", "max_update": "1"},
+        {"name": "Mine",           "max_no": "2", "max_update": "3"},
+        {"name": "Mega Mine",      "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "4",
+      "resources": [
+        {"name": "Push Trap",      "max_no": "3", "max_update": "4"},
+        {"name": "Spring Trap",    "max_no": "2", "max_update": "2"},
+        {"name": "Mine",           "max_no": "3", "max_update": "4"},
+        {"name": "Mega Mine",      "max_no": "1", "max_update": "4"}
+      ]
+    },
+    {
+      "th": "5",
+      "resources": [
+        {"name": "Push Trap",      "max_no": "4", "max_update": "5"},
+        {"name": "Spring Trap",    "max_no": "3", "max_update": "2"},
+        {"name": "Mine",           "max_no": "4", "max_update": "5"},
+        {"name": "Mega Mine",      "max_no": "1", "max_update": "5"}
+      ]
+    },
+    {
+      "th": "6",
+      "resources": [
+        {"name": "Push Trap",      "max_no": "4", "max_update": "6"},
+        {"name": "Spring Trap",    "max_no": "3", "max_update": "3"},
+        {"name": "Mine",           "max_no": "5", "max_update": "6"},
+        {"name": "Mega Mine",      "max_no": "2", "max_update": "6"}
+      ]
+    },
+    {
+      "th": "7",
+      "resources": [
+        {"name": "Push Trap",      "max_no": "4", "max_update": "7"},
+        {"name": "Spring Trap",    "max_no": "3", "max_update": "3"},
+        {"name": "Mine",           "max_no": "5", "max_update": "7"},
+        {"name": "Mega Mine",      "max_no": "2", "max_update": "7"}
+      ]
+    },
+    {
+      "th": "8",
+      "resources": [
+        {"name": "Push Trap",      "max_no": "5", "max_update": "8"},
+        {"name": "Spring Trap",    "max_no": "5", "max_update": "4"},
+        {"name": "Mine",           "max_no": "5", "max_update": "8"},
+        {"name": "Mega Mine",      "max_no": "3", "max_update": "8"}
+      ]
+    },
+    {
+      "th": "9",
+      "resources": [
+        {"name": "Push Trap",      "max_no": "5", "max_update": "9"},
+        {"name": "Spring Trap",    "max_no": "6", "max_update": "4"},
+        {"name": "Mine",           "max_no": "5", "max_update": "9"},
+        {"name": "Mega Mine",      "max_no": "4", "max_update": "9"}
+      ]
+    }
+  ]
+}

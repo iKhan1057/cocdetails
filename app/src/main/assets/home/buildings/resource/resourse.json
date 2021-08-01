@@ -1,0 +1,36 @@
+{
+  "resource_buildings": [
+    {
+      "id": "town_hall",
+      "name": "Town Hall"
+    },
+    {
+      "id": "gold_mine",
+      "name": "Gold Mine"
+    },
+    {
+      "id": "elixir_collector",
+      "name": "Elixir Collector"
+    },
+    {
+      "id": "dark_elixir_drill",
+      "name": "Dark Elixir Drill"
+    },
+    {
+      "id": "gold_storage",
+      "name": "Gold Storage"
+    },
+    {
+      "id": "elixir_storage",
+      "name": "Elixir Storage"
+    },
+    {
+      "id": "dark_elixir_storage",
+      "name": "Dark Elixir Storage"
+    },
+    {
+      "id": "clan_castle",
+      "name": "Clan Castle"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{"army_building":[
+  {"level":"1","build_cost":"7,500,000","build_time":"6d","th":"12","troop_unlocked":"Wall Wrecker"},
+  {"level":"2","build_cost":"9,000,000","build_time":"8d","th":"12","troop_unlocked":"Battle Blimp"},
+  {"level":"3","build_cost":"10,500,000","build_time":"10d","th":"12","troop_unlocked":"Stone Slammer"},
+  {"level":"4","build_cost":"14,500,000","build_time":"14d","th":"12","troop_unlocked":"Siege Barracks"},
+  {"level":"5","build_cost":"16,000,000","build_time":"16d","th":"13","troop_unlocked":"Log Launcher"},
+]}

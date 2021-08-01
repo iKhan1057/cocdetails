@@ -1,0 +1,11 @@
+{"army": [
+  {"level": "1","boost_duration":"14m","time_gained_per_boost":"2h 6m", "build_cost":"150,000",  "build_time":"2h",    "th":"4"},
+  {"level": "2","boost_duration":"16m","time_gained_per_boost":"2h 24m","build_cost":"180,000",  "build_time":"3h",    "th":"4"},
+  {"level": "3","boost_duration":"18m","time_gained_per_boost":"2h 42m","build_cost":"220,000",  "build_time":"4h",    "th":"4"},
+  {"level": "4","boost_duration":"20m","time_gained_per_boost":"3h",    "build_cost":"300,000",  "build_time":"6h",    "th":"4"},
+  {"level": "5","boost_duration":"22m","time_gained_per_boost":"3h 18m","build_cost":"700,000",  "build_time":"8h",    "th":"5"},
+  {"level": "6","boost_duration":"24m","time_gained_per_boost":"3h 36m","build_cost":"1,200,000","build_time":"10h",   "th":"6"},
+  {"level": "7","boost_duration":"26m","time_gained_per_boost":"3h 54m","build_cost":"1,700,000","build_time":"12h",   "th":"7"},
+  {"level": "8","boost_duration":"28m","time_gained_per_boost":"4h 12m","build_cost":"2,200,000","build_time":"1d",    "th":"8"},
+  {"level": "9","boost_duration":"30m","time_gained_per_boost":"4h 30m","build_cost":"2,700,000","build_time":"1d 12h","th":"9"}
+]}

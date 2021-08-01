@@ -1,0 +1,13 @@
+{
+  "spells": [
+    {"level": "1",      "cost_elixir": "7,000",      "research_cost": "N/A",      "research_time": "N/A",      "lab_level_required": "N/A"},
+    {"level": "2",     "cost_elixir": "8,500",      "research_cost": "85,000",      "research_time": "12h ",      "lab_level_required": "1"},
+    {"level": "3",      "cost_elixir": "9,000",      "research_cost": "225,000",      "research_time": "1d",      "lab_level_required": "2"},
+    {"level": "4",     "cost_elixir": "10,000",      "research_cost": "450,000",      "research_time": "1d 12h",     "lab_level_required": "3"},
+    {"level": "5",      "cost_elixir": "11,000",      "research_cost": "900,000",      "research_time": "3d",      "lab_level_required": "6"},
+    {"level": "6",      "cost_elixir": "12,000",      "research_cost": "2,000,000",      "research_time": "5d",      "lab_level_required": "7"},
+    {"level": "7",     "cost_elixir": "13,000",     "research_cost": "4,000,000",     "research_time": "8d",    "lab_level_required": "8"},
+    {"level": "8",      "cost_elixir": "14,000",      "research_cost": "8,000,000",      "research_time": "10d 12h",      "lab_level_required": "9"},
+    {"level": "9",     "cost_elixir": "15,000",     "research_cost": "10,000,000",     "research_time": "13d",    "lab_level_required": "10"}
+  ]
+}

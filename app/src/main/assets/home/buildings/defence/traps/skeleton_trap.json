@@ -1,0 +1,6 @@
+{"defence":[
+{"level":"1","build_cost":"6,000",    "build_time":"N/A",    "th":"8"},
+{"level":"2","build_cost":"450,000",  "build_time":"5h",     "th":"8"},
+{"level":"3","build_cost":"1,200,000","build_time":"20h",    "th":"9"},
+{"level":"4","build_cost":"2,000,000","build_time":"1d 16h", "th":"10"}
+]} 

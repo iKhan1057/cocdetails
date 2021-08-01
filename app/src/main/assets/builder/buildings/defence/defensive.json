@@ -1,0 +1,99 @@
+{
+  "defensive": [
+    {
+      "type": "Building",
+      "buildings": [
+        {
+          "id": "cannon",
+          "name": "Cannon",
+          "bag": "#3d4b58"
+        },
+        {
+          "id": "double_cannon",
+          "name": "Double Cannon",
+          "bag": "#3d4b58"
+        },
+        {
+          "id": "archer_tower",
+          "name": "Archer Tower",
+          "bag": "#2c6514"
+        },
+        {
+          "id": "hidden_tesla",
+          "name": "Hidden Tesla",
+          "bag": "#d0c59d"
+        },
+        {
+          "id": "firecrackers",
+          "name": "Firecrackers",
+          "bag": "#3386a7"
+        },
+        {
+          "id": "crusher",
+          "name": "Crusher",
+          "bag": "#f38ffc"
+        },
+        {
+          "id": "guard_post",
+          "name": "Guard Post",
+          "bag": "#e83c1b"
+        },
+        {
+          "id": "air_bombs",
+          "name": "Air Bombs",
+          "bag": "#d4ab9b"
+        },
+        {
+          "id": "roaster",
+          "name": "Roaster",
+          "bag": "#1f4076"
+        },
+        {
+          "id": "giant_cannon",
+          "name": "Giant Cannon",
+          "bag": "#1f4076"
+        },
+        {
+          "id": "mega_tesla",
+          "name": " Mega Tesla",
+          "bag": "#1f4076"
+        },
+        {
+          "id": "lava_launcher",
+          "name": "Lava Launcher",
+          "bag": "#1f4076"
+        },
+        {
+          "id": "walls",
+          "name": "Walls",
+          "bag": "#1f4076"
+        }
+      ]
+    },
+    {
+      "type": "Traps",
+      "buildings": [
+        {
+          "id": "push_trap",
+          "name": "Push Trap",
+          "bag": "#727fbf"
+        },
+        {
+          "id": "spring_trap",
+          "name": "Spring Trap",
+          "bag": "#727fbf"
+        },
+        {
+          "id": "mine",
+          "name": "Mine",
+          "bag": "#727fbf"
+        },
+        {
+          "id": "mega_mine",
+          "name": "Mega Mine",
+          "bag": "#727fbf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1105 @@
+{
+  "home": [
+    {
+      "id": "home",
+      "name": "HOME VILLAGE",
+      "bag": "#020202",
+      "category": [
+        {
+          "id": "buildings",
+          "name": "Building",
+          "bag": "#ff4000",
+          "list": [
+            {
+              "id": "army_building",
+              "name": "Army Building",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "army_camp",
+                  "name": "Army Camp",
+                  "bag": "#4a1304",
+                  "type": "army_building"
+                },
+                {
+                  "id": "barracks",
+                  "name": "Barracks",
+                  "bag": "#698ec6",
+                  "type": "army_building"
+                },
+                {
+                  "id": "dark_barracks",
+                  "name": "Dark Barracks",
+                  "bag": "#f1290d",
+                  "type": "army_building"
+                },
+                {
+                  "id": "laboratory",
+                  "name": "Laboratory",
+                  "bag": "#2b704b",
+                  "type": "army_building"
+                },
+                {
+                  "id": "spell_factory",
+                  "name": "Spell Factory",
+                  "bag": "#caae5a",
+                  "type": "army_building"
+                },
+                {
+                  "id": "dark_spell_factory",
+                  "name": "Dark Spell Factory",
+                  "bag": "#ac4048",
+                  "type": "army_building"
+                },
+                {
+                  "id": "workshop",
+                  "name": "Workshop",
+                  "bag": "#726ef8",
+                  "type": "army_building"
+                },
+                {
+                  "id": "pet_house",
+                  "name": "Pet House",
+                  "bag": "#35997e",
+                  "type": "army_building"
+                }
+              ]
+            },
+            {
+              "id": "defence",
+              "name": "Defensive Building",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "building",
+                  "bag": "#adadeb",
+                  "name": "Buildings",
+                  "types": [
+                    {
+                      "id": "cannon",
+                      "name": "Cannon",
+                      "bag": "#544e54",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "archer_tower",
+                      "name": "Archer Tower",
+                      "bag": "#256377",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "mortar",
+                      "name": "Mortar",
+                      "bag": "#ffaf0d",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "air_defense",
+                      "name": "Air Defense",
+                      "bag": "#890f00",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "wizard_tower",
+                      "name": "Wizard Tower",
+                      "bag": "#2e2447",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "air_sweeper",
+                      "name": "Air Sweeper",
+                      "bag": "#ff3f2d",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "hidden_tesla",
+                      "name": "Hidden Tesla",
+                      "bag": "#82d393",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "bomb_tower",
+                      "name": "Bomb Tower",
+                      "bag": "#670100",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "x_bow",
+                      "name": "X-Bow",
+                      "bag": "#e075e9",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "inferno_tower",
+                      "name": "Inferno Tower",
+                      "bag": "#000000",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "eagle_artillery",
+                      "name": "Eagle Artillery",
+                      "bag": "#0e1d26",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "giga_tesla",
+                      "name": "Giga Tesla",
+                      "bag": "#26608b",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "giga_inferno_13",
+                      "name": "Giga Inferno (TH13)",
+                      "bag": "#d09834",
+                      "type": "defence"
+                    },
+					{
+                      "id": "giga_inferno_14",
+                      "name": "Giga Inferno (TH14)",
+                      "bag": "#5d3980",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "scattershot",
+                      "name": "Scattershot",
+                      "bag": "#048fb7",
+                      "type": "defence"
+                    },
+					{
+                      "id": "builders_hut",
+                      "name": "Builder's Hut",
+                      "bag": "#30695a",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "walls",
+                      "name": "Walls",
+                      "bag": "#4f3d3e",
+                      "type": "defence"
+                    }
+                  ]
+                },
+                {
+                  "id": "traps",
+                  "bag": "#adadeb",
+                  "name": "Traps",
+                  "types": [
+                    {
+                      "id": "bomb",
+                      "name": "Bomb",
+                      "bag": "#b49e9a",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "spring_trap",
+                      "name": "Spring Trap",
+                      "bag": "#cc804d",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "air_bomb",
+                      "name": "Air Bomb",
+                      "bag": "#882d17",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "giant_bomb",
+                      "name": "Giant Bomb",
+                      "bag": "#352e22",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "seeking_air_mine",
+                      "name": "Seeking Air Mine",
+                      "bag": "#18201d",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "skeleton_trap",
+                      "name": "Skeleton Trap",
+                      "bag": "#2d221f",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "tornado_trap",
+                      "name": "Tornado Trap",
+                      "bag": "#e8baa1",
+                      "type": "defence"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "resource",
+              "name": "Resourse Building",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "th",
+                  "name": "Town Hall",
+                  "bag": "#adadeb",
+                  "type": "resource"
+                },
+                {
+                  "id": "gold_mine",
+                  "name": "Gold Mine",
+                  "bag": "#adadeb",
+                  "type": "resource"
+                },
+                {
+                  "id": "elixir_collector",
+                  "name": "Elixir Collector",
+                  "bag": "#adadeb",
+                  "type": "resource"
+                },
+                {
+                  "id": "dark_elixir_drill",
+                  "name": "Dark Elixir Drill",
+                  "bag": "#adadeb",
+                  "type": "resource"
+                },
+                {
+                  "id": "gold_storage",
+                  "name": "Gold Storage",
+                  "bag": "#adadeb",
+                  "type": "resource"
+                },
+                {
+                  "id": "elixir_storage",
+                  "name": "Elixir Storage",
+                  "bag": "#adadeb",
+                  "type": "resource"
+                },
+                {
+                  "id": "dark_elixir_storage",
+                  "name": "Dark Elixir Storage",
+                  "bag": "#adadeb",
+                  "type": "resource"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "army",
+          "name": "Army",
+          "bag": "#adadeb",
+          "list": [
+            {
+              "id": "dark",
+              "name": "Dark Elixir Troops",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "minion",
+                  "name": "Minion",
+                  "category": "dark",
+                  "bag": "#867ed9",
+                  "type": "army"
+                },
+                {
+                  "id": "hog",
+                  "name": "Hog Rider",
+                  "category": "dark",
+                  "bag": "#5e3d3a",
+                  "type": "army"
+                },
+                {
+                  "id": "valkyrie",
+                  "name": "Valkyrie",
+                  "category": "dark",
+                  "bag": "#ff8f2b",
+                  "type": "army"
+                },
+                {
+                  "id": "golem",
+                  "name": "Golem (Golemite)",
+                  "category": "dark",
+                  "bag": "#ab6c87",
+                  "type": "army"
+                },
+                {
+                  "id": "witch",
+                  "name": "Witch (Skeleton)",
+                  "category": "dark",
+                  "bag": "#5342aa",
+                  "type": "army"
+                },
+                {
+                  "id": "lava",
+                  "name": "Lava Hound (Lava Pup)",
+                  "category": "dark",
+                  "bag": "#553b2b",
+                  "type": "army"
+                },
+                {
+                  "id": "bowler",
+                  "name": "Bowler",
+                  "category": "dark",
+                  "bag": "#9e91ec",
+                  "type": "army"
+                },
+                {
+                  "id": "ice_golem",
+                  "name": "Ice Golem",
+                  "category": "dark",
+                  "bag": "#0dc2ed",
+                  "type": "army"
+                },
+                {
+                  "id": "headhunter",
+                  "name": "Headhunter",
+                  "category": "dark",
+                  "bag": "#746aa9",
+                  "type": "army"
+                }
+              ]
+            },
+            {
+              "id": "elixirtroops",
+              "name": "Elixir Troops",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "barbarian",
+                  "name": "Barbarian",
+                  "category": "exilirtroops",
+                  "bag": "#f4ba35",
+                  "type": "army"
+                },
+                {
+                  "id": "archer",
+                  "name": "Archer",
+                  "category": "exilirtroops",
+                  "bag": "#8722e1",
+                  "type": "army"
+                },
+                {
+                  "id": "giant",
+                  "name": "Giant",
+                  "category": "exilirtroops",
+                  "bag": "#eea36f",
+                  "type": "army"
+                },
+                {
+                  "id": "goblin",
+                  "name": "Goblin",
+                  "category": "exilirtroops",
+                  "bag": "#4d7e25",
+                  "type": "army"
+                },
+                {
+                  "id": "wall_breaker",
+                  "name": "Wall Breaker",
+                  "category": "exilirtroops",
+                  "bag": "#94887c",
+                  "type": "army"
+                },
+                {
+                  "id": "balloon",
+                  "name": "Balloon",
+                  "category": "exilirtroops",
+                  "bag": "#321750",
+                  "type": "army"
+                },
+                {
+                  "id": "wizard",
+                  "name": "Wizard",
+                  "category": "exilirtroops",
+                  "bag": "#3f7eb9",
+                  "type": "army"
+                },
+                {
+                  "id": "healer",
+                  "name": "Healer",
+                  "category": "exilirtroops",
+                  "bag": "#fdda7b",
+                  "type": "army"
+                },
+                {
+                  "id": "dragon",
+                  "name": "Dragon",
+                  "category": "exilirtroops",
+                  "bag": "#7d0247",
+                  "type": "army"
+                },
+                {
+                  "id": "pekka",
+                  "name": "P.E.K.K.A",
+                  "category": "exilirtroops",
+                  "bag": "#752c8b",
+                  "type": "army"
+                },
+                {
+                  "id": "baby_dragon",
+                  "name": "Baby Dragon",
+                  "category": "exilirtroops",
+                  "bag": "#d5aafe",
+                  "type": "army"
+                },
+                {
+                  "id": "miner",
+                  "name": "Miner",
+                  "category": "exilirtroops",
+                  "bag": "#fdab82",
+                  "type": "army"
+                },
+                {
+                  "id": "electro_dragon",
+                  "name": "Electro Dragon",
+                  "category": "exilirtroops",
+                  "bag": "#0253be",
+                  "type": "army"
+                },
+                {
+                  "id": "yeti",
+                  "name": "Yeti (Yetimite)",
+                  "category": "exilirtroops",
+                  "bag": "#928dba",
+                  "type": "army"
+                },
+                {
+                  "id": "dragon_rider",
+                  "name": "Dragon Rider",
+                  "category": "exilirtroops",
+                  "bag": "#626262",
+                  "type": "army"
+                }
+              ]
+            },
+            {
+              "id": "heros",
+              "name": "Heros",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "barbarian_king",
+                  "name": "Barbarian King",
+                  "category": "heros",
+                  "bag": "#83878a",
+                  "type": "heros"
+                },
+                {
+                  "id": "archer_queen",
+                  "name": "Archer Queen",
+                  "category": "heros",
+                  "bag": "#d58d36",
+                  "type": "heros"
+                },
+                {
+                  "id": "grand_warden",
+                  "name": "Grand Warden",
+                  "category": "heros",
+                  "bag": "#a74f9e",
+                  "type": "heros"
+                },
+                {
+                  "id": "royal_champion",
+                  "name": "Royal Champion",
+                  "category": "heros",
+                  "bag": "#1f3d90",
+                  "type": "heros"
+                }
+              ]
+            },
+            {
+              "id": "siege_machines",
+              "name": "Siege Machines",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "wall_wrecker",
+                  "name": "Wall Wrecker",
+                  "category": "siege_machines",
+                  "bag": "#bf2300",
+                  "type": "siege_machines"
+                },
+                {
+                  "id": "battle_blimp",
+                  "name": "Battle Blimp",
+                  "category": "siege_machines",
+                  "bag": "#e78a57",
+                  "type": "siege_machines"
+                },
+                {
+                  "id": "stone_slammer",
+                  "name": "Stone Slammer",
+                  "category": "siege_machines",
+                  "bag": "#0b374f",
+                  "type": "siege_machines"
+                },
+                {
+                  "id": "siege_barracks",
+                  "name": "Siege Barracks",
+                  "category": "siege_machines",
+                  "bag": "#892e2d",
+                  "type": "siege_machines"
+                },
+                {
+                  "id": "log_launcher",
+                  "name": "Log Launcher",
+                  "category": "siege_machines",
+                  "bag": "#997759",
+                  "type": "siege_machines"
+                }
+              ]
+            },
+            {
+              "id": "super_troops",
+              "name": "Super Troops",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "super_barbarian",
+                  "name": "Super Barbarian",
+                  "category": "super_troops",
+                  "bag": "#7a3c04",
+                  "type": "super_troops"
+                },
+                {
+                  "id": "super_archer",
+                  "name": "Super Archer",
+                  "category": "super_troops",
+                  "bag": "#7a3c04",
+                  "type": "super_troops"
+                },
+                {
+                  "id": "super_giant",
+                  "name": "Super Giant",
+                  "category": "super_troops",
+                  "bag": "#7a3c04",
+                  "type": "super_troops"
+                },
+                {
+                  "id": "sneaky_goblin",
+                  "name": "Sneaky Goblin",
+                  "category": "super_troops",
+                  "bag": "#7a3c04",
+                  "type": "super_troops"
+                },
+                {
+                  "id": "super_wall_breaker",
+                  "name": "Super Wall Breaker",
+                  "category": "super_troops",
+                  "bag": "#380f00",
+                  "type": "super_troops"
+                },
+                {
+                  "id": "super_wizard",
+                  "name": "Super Wizard",
+                  "category": "super_troops",
+                  "bag": "#777e99",
+                  "type": "super_troops"
+                },
+                {
+                  "id": "inferno_dragon",
+                  "name": "Inferno Dragon",
+                  "category": "super_troops",
+                  "bag": "#617a26",
+                  "type": "super_troops"
+                },
+                {
+                  "id": "super_minion",
+                  "name": "Super Minion",
+                  "category": "super_troops",
+                  "bag": "#7bbbda",
+                  "type": "super_troops"
+                },
+                {
+                  "id": "super_valkyrie",
+                  "name": "Super Valkyrie",
+                  "category": "super_troops",
+                  "bag": "#ae67b3",
+                  "type": "super_troops"
+                },
+                {
+                  "id": "super_witch",
+                  "name": "Super Witch (Big Boy)",
+                  "category": "super_troops",
+                  "bag": "#6d4fc2",
+                  "type": "super_troops"
+                },
+                {
+                  "id": "ice_hound",
+                  "name": "Ice Hound (Ice Pup)",
+                  "category": "super_troops",
+                  "bag": "#2475b5",
+                  "type": "super_troops"
+                }
+              ]
+            },
+            {
+              "id": "pets",
+              "name": "Pets",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "lassi",
+                  "name": "L.A.S.S.I",
+                  "category": "pets",
+                  "bag": "#4457b3",
+                  "type": "pets"
+                },
+                {
+                  "id": "electro_owl",
+                  "name": "Electro Owl",
+                  "category": "pets",
+                  "bag": "#45538b",
+                  "type": "pets"
+                },
+                {
+                  "id": "mighty_yak",
+                  "name": "Mighty Yak",
+                  "category": "pets",
+                  "bag": "#894914",
+                  "type": "pets"
+                },
+                {
+                  "id": "unicorn",
+                  "name": "Unicorn",
+                  "category": "pets",
+                  "bag": "#cdcadb",
+                  "type": "pets"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "spells",
+          "name": "Spells",
+          "bag": "#009933",
+          "list": [
+            {
+              "id": "elixir",
+              "name": "Elixir Spell",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "lightning_spell",
+                  "name": "Lightning Spell",
+                  "category": "elixir",
+                  "bag": "#0a83f6",
+                  "type": "spells"
+                },
+                {
+                  "id": "healing_spell",
+                  "name": "Healing Spell",
+                  "category": "elixir",
+                  "bag": "#f9e783",
+                  "type": "spells"
+                },
+                {
+                  "id": "rage_spell",
+                  "name": "Rage Spell",
+                  "category": "elixir",
+                  "bag": "#833be5",
+                  "type": "spells"
+                },
+                {
+                  "id": "jump_spell",
+                  "name": "Jump Spell",
+                  "category": "elixir",
+                  "bag": "#4bbe00",
+                  "type": "spells"
+                },
+                {
+                  "id": "freeze_spell",
+                  "name": "Freeze Spell",
+                  "category": "elixir",
+                  "bag": "#00c5f6",
+                  "type": "spells"
+                },
+                {
+                  "id": "clone_spell",
+                  "name": "Clone Spell",
+                  "category": "elixir",
+                  "bag": "#079bb2",
+                  "type": "spells"
+                },
+                {
+                  "id": "invisibility_spell",
+                  "name": "Invisibility Spell",
+                  "category": "elixir",
+                  "bag": "#82cd94",
+                  "type": "spells"
+                }
+              ]
+            },
+            {
+              "id": "dark",
+              "name": "Dark Spell",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "poison_spell",
+                  "name": "Poison Spell",
+                  "category": "dark",
+                  "bag": "#ed5a00",
+                  "type": "spells"
+                },
+                {
+                  "id": "earthquake_spell",
+                  "name": "Earthquake Spell",
+                  "category": "dark",
+                  "bag": "#b17e55",
+                  "type": "spells"
+                },
+                {
+                  "id": "haste_spell",
+                  "name": "Haste Spell",
+                  "category": "dark",
+                  "bag": "#c04696",
+                  "type": "spells"
+                },
+                {
+                  "id": "skeleton_spell",
+                  "name": "Skeleton Spell",
+                  "category": "dark",
+                  "bag": "#ad0000",
+                  "type": "spells"
+                },
+                {
+                  "id": "bat_spell",
+                  "name": "Bat Spell",
+                  "category": "dark",
+                  "bag": "#5a1455",
+                  "type": "spells"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "builder",
+      "name": "BUILDER VILLAGE",
+      "bag": "#020202",
+      "category": [
+        {
+          "id": "buildings",
+          "name": "Building",
+          "bag": "#ff4000",
+          "list": [
+            {
+              "id": "army",
+              "name": "Army Building",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "builder_barracks",
+                  "name": "Builder Barracks",
+                  "bag": "#98a1cb",
+                  "type": "army"
+                },
+                {
+                  "id": "army_camp",
+                  "name": "Army Camp",
+                  "bag": "#da4e24",
+                  "type": "army"
+                },
+                {
+                  "id": "star_laboratory",
+                  "name": "Star Laboratory",
+                  "bag": "#0c387b",
+                  "type": "army"
+                },
+                {
+                  "id": "clock_tower",
+                  "name": "Clock Tower",
+                  "bag": "#cc8d54",
+                  "type": "army"
+                }
+              ]
+            },
+            {
+              "id": "defence",
+              "name": "Defensive Building",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "building",
+                  "bag": "#adadeb",
+                  "name": "Buildings",
+                  "types": [
+                    {
+                      "id": "cannon",
+                      "name": "Cannon",
+                      "bag": "#948382",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "double_cannon",
+                      "name": "Double Cannon",
+                      "bag": "#c58749",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "archer_tower",
+                      "name": "Archer Tower",
+                      "bag": "#0073af",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "hidden_tesla",
+                      "name": "Hidden Tesla",
+                      "bag": "#3c3136",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "firecrackers",
+                      "name": "Firecrackers",
+                      "bag": "#c65761",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "crusher",
+                      "name": "Crusher",
+                      "bag": "#f5c463",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "guard_post",
+                      "name": "Guard Post",
+                      "bag": "#6d82bd",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "air_bombs",
+                      "name": "Air Bombs",
+                      "bag": "#596ce0",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "multi_mortar",
+                      "name": "Multi Mortar",
+                      "bag": "#c0a055",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "roaster",
+                      "name": "Roaster",
+                      "bag": "#5a1f31",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "giant_cannon",
+                      "name": "Giant Cannon",
+                      "bag": "#3e3e45",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "mega_tesla",
+                      "name": " Mega Tesla",
+                      "bag": "#007dab",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "lava_launcher",
+                      "name": "Lava Launcher",
+                      "bag": "#ff9d59",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "walls",
+                      "name": "Walls",
+                      "bag": "#a5a4c2",
+                      "type": "defence"
+                    }
+                  ]
+                },
+                {
+                  "id": "traps",
+                  "bag": "#adadeb",
+                  "name": "Traps",
+                  "types": [
+                    {
+                      "id": "push_trap",
+                      "name": "Push Trap",
+                      "bag": "#d59531",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "spring_trap",
+                      "name": "Spring Trap",
+                      "bag": "#f3975a",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "mine",
+                      "name": "Mine",
+                      "bag": "#ad9091",
+                      "type": "defence"
+                    },
+                    {
+                      "id": "mega_mine",
+                      "name": "Mega Mine",
+                      "bag": "#7f576a",
+                      "type": "defence"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "resource",
+              "name": "Resourse Building",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "th",
+                  "name": "Builder Hall",
+                  "bag": "#ffa839",
+                  "type": "resource"
+                },
+                {
+                  "id": "gold_mine",
+                  "name": "Gold Mine",
+                  "bag": "#89a0c0",
+                  "type": "resource"
+                },
+                {
+                  "id": "elixir_collector",
+                  "name": "Elixir Collector",
+                  "bag": "#7432d8",
+                  "type": "resource"
+                },
+                {
+                  "id": "gold_storage",
+                  "name": "Gold Storage",
+                  "bag": "#495153",
+                  "type": "resource"
+                },
+                {
+                  "id": "elixir_storage",
+                  "name": "Elixir Storage",
+                  "bag": "#ad74ff",
+                  "type": "resource"
+                },
+                {
+                  "id": "gem_mine",
+                  "name": "Gem Mine",
+                  "bag": "#8d6351",
+                  "type": "resource"
+                },
+                {
+                  "id": "otto",
+                  "name": "O.T.T.O Hut",
+                  "bag": "#544848",
+                  "type": "resource"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "army",
+          "name": "Army",
+          "bag": "#adadeb",
+          "list": [
+            {
+              "id": "elixirtroops",
+              "name": "Troops",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "raged_barbarian",
+                  "name": "Raged Barbarian",
+                  "category": "exilirtroops",
+                  "bag": "#83878a",
+                  "type": "army"
+                },
+                {
+                  "id": "sneaky_archer",
+                  "name": "Sneaky Archer",
+                  "category": "exilirtroops",
+                  "bag": "#83878a",
+                  "type": "army"
+                },
+                {
+                  "id": "boxer_giant",
+                  "name": "Boxer Giant",
+                  "category": "exilirtroops",
+                  "bag": "#83878a",
+                  "type": "army"
+                },
+                {
+                  "id": "beta_minion",
+                  "name": "Beta Minion",
+                  "category": "exilirtroops",
+                  "bag": "#83878a",
+                  "type": "army"
+                },
+                {
+                  "id": "bomber",
+                  "name": "Bomber",
+                  "category": "exilirtroops",
+                  "bag": "#83878a",
+                  "type": "army"
+                },
+                {
+                  "id": "baby_dragon",
+                  "name": "Baby Dragon",
+                  "category": "exilirtroops",
+                  "bag": "#83878a",
+                  "type": "army"
+                },
+                {
+                  "id": "cannon_cart",
+                  "name": "Cannon Cart",
+                  "category": "exilirtroops",
+                  "bag": "#83878a",
+                  "type": "army"
+                },
+                {
+                  "id": "night_witch",
+                  "name": "Night Witch (Bat)",
+                  "category": "exilirtroops",
+                  "bag": "#83878a",
+                  "type": "army"
+                },
+                {
+                  "id": "drop_ship",
+                  "name": "Drop Ship (Skeleton)",
+                  "category": "exilirtroops",
+                  "bag": "#83878a",
+                  "type": "army"
+                },
+                {
+                  "id": "super_pekka",
+                  "name": "Super P.E.K.K.A",
+                  "category": "exilirtroops",
+                  "bag": "#83878a",
+                  "type": "army"
+                },
+                {
+                  "id": "hog_glider",
+                  "name": "Hog Glider",
+                  "category": "exilirtroops",
+                  "bag": "#83878a",
+                  "type": "army"
+                }
+              ]
+            },
+            {
+              "id": "heros",
+              "name": "Heros",
+              "bag": "#000000",
+              "members": [
+                {
+                  "id": "battle_machine",
+                  "name": "Battle Machine",
+                  "category": "heros",
+                  "bag": "#83878a",
+                  "type": "heros"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

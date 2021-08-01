@@ -1,0 +1,124 @@
+{
+  "defensive": [
+    {
+      "type": "Building",
+      "buildings": [
+        {
+          "id": "cannon",
+          "name": "Cannon",
+          "bag": "#3d4b58"
+        },
+        {
+          "id": "archer_tower",
+          "name": "Archer Tower",
+          "bag": "#2c6514"
+        },
+        {
+          "id": "mortar",
+          "name": "Mortar",
+          "bag": "#ffa804"
+        },
+        {
+          "id": "air_defense",
+          "name": "Air Defense",
+          "bag": "#ffe352"
+        },
+        {
+          "id": "wizard_tower",
+          "name": "Wizard Tower",
+          "bag": "#9cdbfa"
+        },
+        {
+          "id": "air_sweeper",
+          "name": "Air Sweeper",
+          "bag": "#ac2422"
+        },
+        {
+          "id": "hidden_tesla",
+          "name": "Hidden Tesla",
+          "bag": "#d0c59d"
+        },
+        {
+          "id": "bomb_tower",
+          "name": "Bomb Tower",
+          "bag": "#3386a7"
+        },
+        {
+          "id": "x_bow",
+          "name": "X-Bow",
+          "bag": "#f38ffc"
+        },
+        {
+          "id": "inferno_tower",
+          "name": "Inferno Tower",
+          "bag": "#e83c1b"
+        },
+        {
+          "id": "eagle_artillery",
+          "name": "Eagle Artillery",
+          "bag": "#d4ab9b"
+        },
+        {
+          "id": "giga_tesla",
+          "name": "Giga Tesla",
+          "bag": "#6e8bac"
+        },
+        {
+          "id": "giga_inferno",
+          "name": "Giga Inferno",
+          "bag": "#33444c"
+        },
+        {
+          "id": "scattershot",
+          "name": "Scattershot",
+          "bag": "#027595"
+        },
+        {
+          "id": "walls",
+          "name": "Walls",
+          "bag": "#1f4076"
+        }
+      ]
+    },
+    {
+      "type": "Traps",
+      "buildings": [
+        {
+          "id": "bomb",
+          "name": "Bomb",
+          "bag": "#727fbf"
+        },
+        {
+          "id": "spring_trap",
+          "name": "Spring Trap",
+          "bag": "#f79c5e"
+        },
+        {
+          "id": "air_bomb",
+          "name": "Air Bomb",
+          "bag": "#9d331b"
+        },
+        {
+          "id": "giant_bomb",
+          "name": "Giant Bomb",
+          "bag": "#9e7358"
+        },
+        {
+          "id": "seeking_air_mine",
+          "name": "Seeking Air Mine",
+          "bag": "#e4d6bf"
+        },
+        {
+          "id": "skeleton_trap",
+          "name": "Skeleton Trap",
+          "bag": "#a7724b"
+        },
+        {
+          "id": "tornado_trap",
+          "name": "Tornado Trap",
+          "bag": "#b3a1b3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "army_buildings": [
+    {
+      "th": "1",
+      "resources": [
+        {"name": "Builder Barracks",   "max_no": "1", "max_update": "-"},
+        {"name": "Army Camp",          "max_no": "1", "max_update": "-"},
+        {"name": "Star Lab",           "max_no": "1", "max_update": "-"},
+        {"name": "Clock Tower",        "max_no": "-", "max_update": "-"},
+        {"name": "O.T.T.O Hut",        "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "2",
+      "resources": [
+        {"name": "Builder Barracks",   "max_no": "1", "max_update": "2"},
+        {"name": "Army Camp",          "max_no": "2", "max_update": "1"},
+        {"name": "Star Lab",           "max_no": "1", "max_update": "2"},
+        {"name": "Clock Tower",        "max_no": "-", "max_update": "-"},
+        {"name": "O.T.T.O Hut",        "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "3",
+      "resources": [
+        {"name": "Builder Barracks",   "max_no": "1", "max_update": "4"},
+        {"name": "Army Camp",          "max_no": "3", "max_update": "1"},
+        {"name": "Star Lab",           "max_no": "1", "max_update": "3"},
+        {"name": "Clock Tower",        "max_no": "-", "max_update": "-"},
+        {"name": "O.T.T.O Hut",        "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "4",
+      "resources": [
+        {"name": "Builder Barracks",   "max_no": "1", "max_update": "6"},
+        {"name": "Army Camp",          "max_no": "4", "max_update": "1"},
+        {"name": "Star Lab",           "max_no": "1", "max_update": "4"},
+        {"name": "Clock Tower",        "max_no": "1", "max_update": "-"},
+        {"name": "O.T.T.O Hut",        "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "5",
+      "resources": [
+        {"name": "Builder Barracks",   "max_no": "1", "max_update": "7"},
+        {"name": "Army Camp",          "max_no": "4", "max_update": "1"},
+        {"name": "Star Lab",           "max_no": "1", "max_update": "5"},
+        {"name": "Clock Tower",        "max_no": "1", "max_update": "4"},
+        {"name": "O.T.T.O Hut",        "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "6",
+      "resources": [
+        {"name": "Builder Barracks",   "max_no": "1", "max_update": "8"},
+        {"name": "Army Camp",          "max_no": "4", "max_update": "1"},
+        {"name": "Star Lab",           "max_no": "1", "max_update": "6"},
+        {"name": "Clock Tower",        "max_no": "1", "max_update": "5"},
+        {"name": "O.T.T.O Hut",        "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "7",
+      "resources": [
+        {"name": "Builder Barracks",   "max_no": "1", "max_update": "9"},
+        {"name": "Army Camp",          "max_no": "5", "max_update": "1"},
+        {"name": "Star Lab",           "max_no": "1", "max_update": "7"},
+        {"name": "Clock Tower",        "max_no": "1", "max_update": "6"},
+        {"name": "O.T.T.O Hut",        "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "8",
+      "resources": [
+        {"name": "Builder Barracks",   "max_no": "1", "max_update": "10"},
+        {"name": "Army Camp",          "max_no": "6", "max_update": "1"},
+        {"name": "Star Lab",           "max_no": "1", "max_update": "8"},
+        {"name": "Clock Tower",        "max_no": "1", "max_update": "8"},
+        {"name": "O.T.T.O Hut",        "max_no": "-", "max_update": "-"}
+      ]
+    },
+    {
+      "th": "8",
+      "resources": [
+        {"name": "Builder Barracks",   "max_no": "1", "max_update": "11"},
+        {"name": "Army Camp",          "max_no": "6", "max_update": "1"},
+        {"name": "Star Lab",           "max_no": "1", "max_update": "9"},
+        {"name": "Clock Tower",        "max_no": "1", "max_update": "9"},
+        {"name": "O.T.T.O Hut",        "max_no": "1", "max_update": "5"}
+      ]
+    }
+  ]
+}

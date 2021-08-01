@@ -1,0 +1,14 @@
+{"army_building":[
+  {"level":"1","build_cost":"5,000","build_time":"1m","th":"3"},
+  {"level":"2","build_cost":"25,000","build_time":"1h","th":"4"},
+  {"level":"3","build_cost":"75,000","build_time":"2h","th":"5"},
+  {"level":"4","build_cost":"150,000","build_time":"4h","th":"6"},
+  {"level":"5","build_cost":"300,000","build_time":"8h","th":"7"},
+  {"level":"6","build_cost":"600,000","build_time":"16h","th":"8"},
+  {"level":"7","build_cost":"1,200,000","build_time":"1d","th":"9"},
+  {"level":"8","build_cost":"2,500,000","build_time":"2d","th":"10"},
+  {"level":"9","build_cost":"5,000,000","build_time":"4d","th":"11"},
+  {"level":"10","build_cost":"8,000,000","build_time":"6d","th":"12"},
+  {"level":"11","build_cost":"10,000,000","build_time":"9d","th":"13"},
+  {"level":"12","build_cost":"12,000,000","build_time":"12d","th":"14"}
+]}

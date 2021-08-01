@@ -1,0 +1,46 @@
+{
+  "details": [
+    {"name": "Builder Hall Level",      "value": "9"},
+    {"name": "Build Cost",              "value": "100,000"},
+    {"name": "Build Time",              "value": "None"}
+  ],
+  "upgrade_requirements": [
+    {"level": "2","req": "Gear Up* all 3 buildings of Home: Cannon, Archer Tower, Mortar"},
+    {"level": "3","req": "Upgrade Cannon Cart to level 18"},
+    {"level": "4","req": "Upgrade Mega Tesla to level 9"},
+    {"level": "5","req": "Upgrade Battle Machine to level 30"}
+  ],
+  "gear_up": [
+    {
+      "name": "Cannon",
+      "gear_up_details": [
+        {"tag": "upgrade cost","value": "1,500,000"},
+        {"tag": "upgrade time","value": "2d"},
+        {"tag": "home Cannon level required","value": "7"},
+        {"tag": "builder building to be upgraded","value": "Double Cannon"},
+        {"tag": "builder building level required","value": "4"}
+      ]
+    },
+    {
+      "name": "Archer Tower",
+      "gear_up_details": [
+        {"tag": "upgrade cost","value": "4,000,000" },
+        {"tag": "upgrade time","value": "7d" },
+        {"tag": "home Archer Tower level","value": "10"},
+        {"tag": "builder building to be upgraded","value": "Archer Tower"},
+        {"tag": "builder building level required","value": "6"}
+      ]
+    },
+    {
+      "name": "Mortar",
+      "gear_up_details": [
+        {"tag":  "upgrade cost","value": "8,000,000"},
+        {"tag":  "upgrade time","value": "14d"},
+        {"tag":  "home Mortar level","value": "8"},
+        {"tag":  "builder building to be upgraded","value": "Multi Mortar"},
+        {"tag":  "builder building level required","value" :"8"}
+                         ]
+    }
+
+  ]
+}

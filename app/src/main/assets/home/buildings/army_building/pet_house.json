@@ -1,0 +1,7 @@
+{
+  "army_building": [
+    {"level": "1","troop_unlocked":"L.A.S.S.I",        "build_cost":"15,000,000",  "build_time":"13d",     "th":"14"},
+    {"level": "2","troop_unlocked":"Electro Owl",      "build_cost":"17,500,000",  "build_time":"15d",     "th":"14"},
+    {"level": "3","troop_unlocked":"Mighty Yak",       "build_cost":"18,500,000",  "build_time":"17d",     "th":"14"},
+    {"level": "4","troop_unlocked":"Unicorn",          "build_cost":"19,500,000",  "build_time":"19d",     "th":"14"}
+  ]}

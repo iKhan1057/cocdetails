@@ -1,0 +1,8 @@
+{"army_building":[
+  {"level":"1","troop_unlocked":"Lightning Spell",          "build_cost":"200,000",  "build_time":"8h",     "th":"5"},
+  {"level":"2","troop_unlocked":"Healing Spell",            "build_cost":"400,000",  "build_time":"1d",     "th":"6"},
+  {"level":"3","troop_unlocked":"Rage Spell",               "build_cost":"800,000",  "build_time":"2d",     "th":"7"},
+  {"level":"4","troop_unlocked":"Jump Spell and\n   Freeze Spell","build_cost":"1,200,000","build_time":"3d 12h", "th":"9"},
+  {"level":"5","troop_unlocked":"Clone Spell",              "build_cost":"2,400,000","build_time":"5d",     "th":"10"},
+  {"level":"6","troop_unlocked":"Invisibility Spell",       "build_cost":"4,800,000","build_time":"7d",     "th":"11"}
+]}
